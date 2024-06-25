@@ -7,9 +7,9 @@ Built with [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-f
 
 ### To Use
 Choose a sorting algorithm from the drop-down list and click play to run the program.
-
 To pause or resume a program click the Pause/Resume button.
 To reset the state of the array/panel click the Reset button.
+![](github/Screenshot.png)
 
 ### Prerequisites
 In order to run the program after creating a copy of the code the user needs to have Visual Studio 2022 with .NET 8.0 installed.
