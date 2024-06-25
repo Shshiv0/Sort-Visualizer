@@ -1,0 +1,17 @@
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\bin\Debug\net8.0-windows\Sorting Algorithms Visualizer.exe
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\bin\Debug\net8.0-windows\Sorting Algorithms Visualizer.deps.json
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\bin\Debug\net8.0-windows\Sorting Algorithms Visualizer.runtimeconfig.json
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\bin\Debug\net8.0-windows\Sorting Algorithms Visualizer.dll
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\bin\Debug\net8.0-windows\Sorting Algorithms Visualizer.pdb
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting_Algorithms_Visualizer.Form1.resources
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.csproj.GenerateResource.cache
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.AssemblyInfoInputs.cache
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.AssemblyInfo.cs
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.dll
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\refint\Sorting Algorithms Visualizer.dll
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.pdb
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting Algorithms Visualizer.genruntimeconfig.cache
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\ref\Sorting Algorithms Visualizer.dll
+C:\Users\shshi\source\repos\Sorting Algorithms Visualizer\Sorting Algorithms Visualizer\obj\Debug\net8.0-windows\Sorting_Algorithms_Visualizer.Properties.Resources.resources
