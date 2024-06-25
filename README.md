@@ -10,7 +10,7 @@ To pause or resume an algorithm click the "Pause/Resume" button.
 To reset the panel you must wait for the algorithm to finish running, or pausing the algorithm.
 
 ## Prerequisites
-If .NET 8.0 is not installed, one can install it using: ![.NET 8.0](https://learn.microsoft.com/en-us/dotnet/core/install/windows#net-installer)
+If .NET 8.0 is not installed, one can install it using: [.NET 8.0](https://learn.microsoft.com/en-us/dotnet/core/install/windows#net-installer)
 
 If installing through PowerShell:
 ```sh
