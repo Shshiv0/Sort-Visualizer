@@ -24,13 +24,14 @@ namespace Sorting_Algorithms_Visualizer
         // Running the algorithm
         public void adjacent()
         {
-                for (int i = 0; i < arr.Count()-1; i++)
+            // Looping and swapping when needed         
+            for (int i = 0; i < arr.Count()-1; i++)
+            {
+                if (arr[i] > arr[i + 1])
                 {
-                    if (arr[i] > arr[i + 1])
-                    {
-                        sort(i, i + 1);
-                    }
+                    sort(i, i + 1);
                 }
+            }
         }
 
         // swap values

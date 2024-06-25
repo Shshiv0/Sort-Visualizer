@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\sorting algorithms visualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\sorting algorithms visualizer\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|c:\\users\\shshi\\source\\repos\\sorting algorithms visualizer\\sorting algorithms visualizer\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|c:\\users\\shshi\\source\\repos\\sorting algorithms visualizer\\sorting algorithms visualizer\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\sorting algorithms visualizer\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\quick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\sorting algorithms visualizer\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\sorting algorithms visualizer\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\heap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\sorting algorithms visualizer\\insertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\insertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|c:\\users\\shshi\\source\\repos\\sorting algorithms visualizer\\sorting algorithms visualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|solutionrelative:sorting algorithms visualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF3AAC1D-1D73-4392-80AE-10EE821CD670}|Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer.csproj|C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\sorting algorithms visualizer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,44 +42,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Heap.cs",
-              "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Heap.cs",
-              "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Heap.cs",
-              "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Heap.cs",
-              "RelativeToolTip": "Sorting Algorithms Visualizer\\Heap.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAkwD8AAAAAAAAA",
+              "Title": "Selection.cs",
+              "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Selection.cs",
+              "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Selection.cs",
+              "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Selection.cs",
+              "RelativeToolTip": "Sorting Algorithms Visualizer\\Selection.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T20:33:48.662Z",
+              "WhenOpened": "2024-06-25T22:17:03.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Quick.cs",
-              "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Quick.cs",
-              "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Quick.cs",
-              "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Quick.cs",
-              "RelativeToolTip": "Sorting Algorithms Visualizer\\Quick.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T15:46:36.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Bubble.cs",
               "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Bubble.cs",
               "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Bubble.cs",
               "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Bubble.cs",
               "RelativeToolTip": "Sorting Algorithms Visualizer\\Bubble.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T01:55:19.156Z"
+              "WhenOpened": "2024-06-20T01:55:19.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -85,13 +78,52 @@
               "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Insertion.cs",
               "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Insertion.cs",
               "RelativeToolTip": "Sorting Algorithms Visualizer\\Insertion.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAUwDQAAAAhAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T23:37:16Z"
+              "WhenOpened": "2024-06-24T23:37:16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Form1.cs",
+              "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Form1.cs",
+              "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Form1.cs [Design]",
+              "RelativeToolTip": "Sorting Algorithms Visualizer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:22:01.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quick.cs",
+              "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Quick.cs",
+              "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Quick.cs",
+              "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Quick.cs",
+              "RelativeToolTip": "Sorting Algorithms Visualizer\\Quick.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:46:36.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Heap.cs",
+              "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Heap.cs",
+              "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Heap.cs",
+              "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Heap.cs",
+              "RelativeToolTip": "Sorting Algorithms Visualizer\\Heap.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:33:48.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Form1.cs",
               "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Form1.cs",
@@ -104,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SortingLogic.cs",
               "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\SortingLogic.cs",
               "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\SortingLogic.cs",
@@ -113,18 +145,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T01:50:24.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Form1.cs",
-              "RelativeDocumentMoniker": "Sorting Algorithms Visualizer\\Form1.cs",
-              "ToolTip": "C:\\Users\\shshi\\source\\repos\\Sorting Algorithms Visualizer\\Sorting Algorithms Visualizer\\Form1.cs [Design]",
-              "RelativeToolTip": "Sorting Algorithms Visualizer\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T20:22:01.871Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

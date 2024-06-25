@@ -28,6 +28,7 @@ namespace Sorting_Algorithms_Visualizer
             int j;
             int key;
 
+            // Loop through array, setting key values and swapping when conditions are met
             for (int i = 1; i < arr.Length; i++)
             {
                 key = arr[i];
