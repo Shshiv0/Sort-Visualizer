@@ -24,6 +24,7 @@ namespace Sorting_Algorithms_Visualizer
         // Running the algorithm
         public void adjacent()
         {
+<<<<<<< HEAD
             // Looping and swapping when needed         
             for (int i = 0; i < arr.Count()-1; i++)
             {
@@ -32,6 +33,15 @@ namespace Sorting_Algorithms_Visualizer
                     sort(i, i + 1);
                 }
             }
+=======
+                for (int i = 0; i < arr.Count()-1; i++)
+                {
+                    if (arr[i] > arr[i + 1])
+                    {
+                        sort(i, i + 1);
+                    }
+                }
+>>>>>>> 7d7aa134e67997e011abf25ff856162ec6ef1796
         }
 
         // swap values

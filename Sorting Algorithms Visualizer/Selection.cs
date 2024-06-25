@@ -28,12 +28,18 @@ namespace Sorting_Algorithms_Visualizer
             int j;
             int min;
 
+<<<<<<< HEAD
             // Loop through array set min value
+=======
+>>>>>>> 7d7aa134e67997e011abf25ff856162ec6ef1796
             for (int i = 0; i < arr.Length - 1; i++)
             {
                 min = i;
 
+<<<<<<< HEAD
                 // loop and check conditional
+=======
+>>>>>>> 7d7aa134e67997e011abf25ff856162ec6ef1796
                 for (j = i + 1; j < arr.Length; j++)
                 {
                     if (arr[j] < arr[min])

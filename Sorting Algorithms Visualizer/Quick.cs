@@ -37,11 +37,17 @@ namespace Sorting_Algorithms_Visualizer
         // Partition array into smaller sub-arrays
         private int partition(int[] arr, int low, int high)
         {
+<<<<<<< HEAD
             // Set pivot variable
             int pivot = arr[high];
             int i = (low - 1);
 
             // looping through and checking if index is less than pivot value
+=======
+            int pivot = arr[high];
+            int i = (low - 1);
+
+>>>>>>> 7d7aa134e67997e011abf25ff856162ec6ef1796
             for (int j = low; j <= high - 1; j++)
             {
                 if (arr[j] < pivot)

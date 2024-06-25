@@ -50,13 +50,19 @@ namespace Sorting_Algorithms_Visualizer
             int l = 2 * i + 1;
             int r = 2 * i + 2;
 
+<<<<<<< HEAD
             // Check conditionals
+=======
+>>>>>>> 7d7aa134e67997e011abf25ff856162ec6ef1796
             if (l < n && arr[l] > arr[largest])
                 largest = l;
             if (r < n && arr[r] > arr[largest])
                 largest = r;
 
+<<<<<<< HEAD
             // Swapping and recursion 
+=======
+>>>>>>> 7d7aa134e67997e011abf25ff856162ec6ef1796
             if (largest != i)
             {
                 swap(arr, i, largest);
