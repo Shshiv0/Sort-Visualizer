@@ -5,7 +5,7 @@ A sorting algorithm visualizer used to used to visually represent the time-compl
 ![](github/Screenshot.png)
 
 ## Instructions
-Select an algorithm of your choice using the drop-down list located on the top-middle of the form and run by clicking "Play".
+Select an algorithm of your choice using the drop-down list located on the top of the form and run by clicking "Play".
 To pause or resume an algorithm click the "Pause/Resume" button.
 To reset the panel you must wait for the algorithm to finish running, or pausing the algorithm.
 
